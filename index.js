@@ -43,3 +43,6 @@ shiftBtn.addEventListener("click", function(){
     myEmojis.shift()
     renderEmojis()
 })
+
+
+//basically added a comment to test project
